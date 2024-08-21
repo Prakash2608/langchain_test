@@ -1,1 +1,1 @@
-# langchain_test
+# Deploying RAG Application using AWS (AWS lambda, AWS ECR), Langchain, HuggingFace, Docker
